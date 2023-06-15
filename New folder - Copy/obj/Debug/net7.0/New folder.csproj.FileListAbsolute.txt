@@ -1,0 +1,30 @@
+C:\Users\panka\OneDrive\Pictures\New folder\bin\Debug\net7.0\New folder.exe
+C:\Users\panka\OneDrive\Pictures\New folder\bin\Debug\net7.0\New folder.deps.json
+C:\Users\panka\OneDrive\Pictures\New folder\bin\Debug\net7.0\New folder.runtimeconfig.json
+C:\Users\panka\OneDrive\Pictures\New folder\bin\Debug\net7.0\New folder.dll
+C:\Users\panka\OneDrive\Pictures\New folder\bin\Debug\net7.0\New folder.pdb
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\New folder.csproj.AssemblyReference.cache
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\New folder.AssemblyInfoInputs.cache
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\New folder.AssemblyInfo.cs
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\New folder.dll
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\refint\New folder.dll
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\New folder.pdb
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\New folder.genruntimeconfig.cache
+C:\Users\panka\OneDrive\Pictures\New folder\obj\Debug\net7.0\ref\New folder.dll
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\New folder.csproj.AssemblyReference.cache
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\New folder.AssemblyInfoInputs.cache
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\New folder.AssemblyInfo.cs
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\New folder.csproj.CoreCompileInputs.cache
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\New folder.dll
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\refint\New folder.dll
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\New folder.pdb
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\bin\Debug\net7.0\New folder.exe
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\bin\Debug\net7.0\New folder.deps.json
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\bin\Debug\net7.0\New folder.runtimeconfig.json
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\bin\Debug\net7.0\New folder.dll
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\bin\Debug\net7.0\New folder.pdb
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\New folder.genruntimeconfig.cache
+C:\Users\panka\OneDrive\Pictures\New folder - Copy\obj\Debug\net7.0\ref\New folder.dll
